@@ -1,6 +1,6 @@
 /*
     CIT 281 Project 2
-    Name: Shinault
+    Name: sshina
 */
 
 // Returns a random number between min (inclusive) and max (exclusive)
